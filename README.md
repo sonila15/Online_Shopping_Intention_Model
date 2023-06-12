@@ -1,6 +1,6 @@
 ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/0dc919df-63b7-4e82-b6d1-9d8fc31ef5d3)
 
-# Online_Shopping_Intention_Model
+# Online Shopping Intention Model
 
 # Objective
 
