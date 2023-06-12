@@ -29,7 +29,7 @@ For the project, we analyze machine learning models in order to define the best 
   ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/9caff2a8-3421-4788-9ba4-688f7392f4ac)
 
 - ### Random Forest 
-  Which combines the output of multiple decision trees to reach a single result. The random forest algorithm provides a higher level of accuracy in predicting outcomes over the decision tree algorithm. The results obtained were:
+  This model combines the output of multiple decision trees to reach a single result. The random forest algorithm provides a higher level of accuracy in predicting outcomes over the decision tree algorithm. The results obtained were:
   
   ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/37669ba9-5dba-46b8-bdba-c60463536b29)
   
