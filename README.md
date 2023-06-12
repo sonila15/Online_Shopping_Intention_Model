@@ -4,12 +4,11 @@
 
 # Objective
 
-The objective of the project is building machine learning models to identify user behaviour patterns.
+The objective of the project is to analyze and understand online shoppers' purchasing intention and behavior, providing valuable insights for e-commerce businesses.
 
 # Dataset
 
 - Source: The dataset is sourced from the UCI Machine Learning Repository, a well-known repository for machine learning datasets.
-- Purpose: The dataset aims to analyze and understand online shoppers' purchasing intention and behavior, providing valuable insights for e-commerce businesses.
 - Features: The dataset consists of various features that capture different aspects of online visitor behavior and characteristics. These features include:
   - Administrative, Informational, and Product-Related Pageviews: The number of pages visited by the user in each category.
   - Administrative, Informational, and Product-Related Duration: The total time spent by the user on each category of pages.
