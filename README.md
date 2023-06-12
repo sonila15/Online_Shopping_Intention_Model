@@ -23,15 +23,18 @@ For the project, we analyze machine learning models in order to define the best 
   
   ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/9caff2a8-3421-4788-9ba4-688f7392f4ac)
 
-  - Random Forest which combines the output of multiple decision trees to reach a single result. The random forest algorithm provides a higher level of accuracy in predicting outcomes over the decision tree algorithm. The results obtained were:
+- ## Random Forest 
+  Which combines the output of multiple decision trees to reach a single result. The random forest algorithm provides a higher level of accuracy in predicting outcomes over the decision tree algorithm. The results obtained were:
   
   ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/37669ba9-5dba-46b8-bdba-c60463536b29)
   
-  - Logistic Regression Model, that is used for predicting the categorical dependent variable using a given set of independent variables and it is used for solving the classification problems. The results obtained were:
+- ## Logistic Regression Model 
+  That is used for predicting the categorical dependent variable using a given set of independent variables and it is used for solving the classification problems. The results obtained were:
    
    ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/67af0cd0-b487-4003-a360-a49efac128c1)
 
-  - Support Vector Machine (SVM). It is a model with associated learning algorithms that analyze data for classification and regression analysis. However, primarily, it is used for Classification problems in Machine Learning, for example SVM Face detection, image classification, text categorization, etc. The results obtained were:
+- ## Support Vector Machine (SVM) 
+  It is a model with associated learning algorithms that analyze data for classification and regression analysis. However, primarily, it is used for Classification problems in Machine Learning, for example SVM Face detection, image classification, text categorization, etc. The results obtained were:
  
  ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/996ffd0e-254e-4315-bcf3-517ba263e88d)
 
