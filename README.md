@@ -50,6 +50,7 @@ For the project, we analyze machine learning models in order to define the best 
  - Pandas
  - Sklearn
  - Matplot
+ - HTML
  - Spark
  - Tableu
 
