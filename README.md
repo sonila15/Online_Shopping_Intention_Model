@@ -46,6 +46,12 @@ For the project, we analyze machine learning models in order to define the best 
  ## Results
  
  ## Tecnology used
+ - Numpy
+ - Pandas
+ - Sklearn
+ - Matplot
+ - Spark
+ - Tableu
 
 
 
