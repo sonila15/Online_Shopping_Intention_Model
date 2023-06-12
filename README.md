@@ -21,7 +21,7 @@ The objective of the project is to analyze and understand online shoppers' purch
   - Revenue: The target variable indicating whether a purchase was made (TRUE) or not (FALSE).
 
 ## Model Selection
-For the project, we analyze four machine learning models in order to define the best model as the one that generalizes the best on future data. The models analized are:
+For this project, we analyze four machine learning models in order to define the best model as the one that generalizes the best on future data. The models analized are:
 
 - ### Decision Tree
   It is a supervised learning algorithm that is used for classification and regression modeling. These trees are used to either classify data or predict what will come next. The results obtained were:
