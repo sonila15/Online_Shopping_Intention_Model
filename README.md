@@ -43,6 +43,10 @@ For the project, we analyze machine learning models in order to define the best 
   It is a model with associated learning algorithms that analyze data for classification and regression analysis. However, primarily, it is used for Classification problems in Machine Learning, for example SVM Face detection, image classification, text categorization, etc. The results obtained were:
  
  ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/996ffd0e-254e-4315-bcf3-517ba263e88d)
+ 
+ # Results
+ 
+ # Tecnology used
 
 
 
