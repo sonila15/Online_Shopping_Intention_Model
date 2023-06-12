@@ -26,7 +26,7 @@ For the project, we analyze machine learning models in order to define the best 
   
   ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/37669ba9-5dba-46b8-bdba-c60463536b29)
   
-    - Logistic Regression Model, that is used for predicting the categorical dependent variable using a given set of independent variables and it is used for solving the classification problems. The results obtained were:
+  - Logistic Regression Model, that is used for predicting the categorical dependent variable using a given set of independent variables and it is used for solving the classification problems. The results obtained were:
    
    ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/67af0cd0-b487-4003-a360-a49efac128c1)
 
