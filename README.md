@@ -43,11 +43,11 @@ For this project, we analyzed four machine learning models in order to define th
  
  ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/996ffd0e-254e-4315-bcf3-517ba263e88d)
  
-- ## Model Tuning  
+## Model Tuning  
  
   Based upon the results of each model we decided that the SVM model was the best choice. We also noticed that the dataset was a little uneven. Upon a quick analysis we saw that most of the dataset was of customers who didnt end up purchasing. This made the model a little uneven and harder to predict if they ended up purchasing. To adress this issue we used the SMOTE methodolgy. This method balances out the data that is used and creates a stronger model.
   
- - ## Results
+ ## Results
   As seen in the results the data set became alot more balanced which created a stronger model. However our accuracy took a small hit. It went from .9 to .88 Even with this drop however our model is considered strong. This is becuase there is less imbalance and better predictions of a purchase or a non purchase. 
  
  ## Tecnology used
