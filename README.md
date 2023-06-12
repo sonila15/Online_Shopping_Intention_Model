@@ -18,7 +18,8 @@
 # Model Selection
 For the project, we analyze machine learning models in order to define the best model as the one that generalizes the best on future data. The models analized are:
 
-  - ## Decision Tree that is a supervised learning algorithm that is used for classification and regression modeling. These trees are used to either classify data or predict what will come next. The results obtained were:
+  - ## Decision Tree
+      It is a supervised learning algorithm that is used for classification and regression modeling. These trees are used to either classify data or predict what will come next. The results obtained were:
   
   ![image](https://github.com/sonila15/Online_Shopping_Intention_Model/assets/118692087/9caff2a8-3421-4788-9ba4-688f7392f4ac)
 
